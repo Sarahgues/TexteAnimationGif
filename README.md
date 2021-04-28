@@ -1,14 +1,5 @@
-### Fichier de base pour commencer un mini-projet 
+### [CSS #6] Remplir les lettres d'un titre avec un Gif ou une photo
 
-Avec : 
-* des photos randoms
-* une navbar toute faite
-* un body tout fait
-* des sons
-* des svg
-* jQuery et Bootstrap reliés
+#### From Scratch - Développement Web
 
-#### Démarrer projet avec Sass 
-* `npm run sass`
-
-browser-sync start --proxy localhost/***  --files '**/*' --no-notify
+- https://www.youtube.com/watch?v=rXNzeKCD-4o&list=PLEiMYEzpB4QvFzUe2KPVgJ0EInbNbt1rH&index=9
